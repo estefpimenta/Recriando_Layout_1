@@ -1,0 +1,47 @@
+body {
+    margin: 0 auto;
+    text-align:center;
+}
+
+#main {
+    width: 626px;
+    height: 486px;
+    margin: 0 auto 24px;
+}
+
+h1 {
+    font-family: "Dosis", sans-serif;
+    color: #3F3D56;
+    font-size: 32px;
+    
+}
+
+p {
+    font-family: "Open Sans", sans-serif;
+    color: #828282;
+    font-size: 15px;
+}
+
+h1 span {
+    color: #EE24FF;
+    font-weight: bold;
+}
+
+p span {
+    color: #3F3D56;
+    font-weight: bold;
+}
+
+
+#line {
+    color: #ECEFF2;
+    width: 391px;
+    height: 0px;
+}
+
+#footer {
+    height: 176px;
+    width: 1024px;
+    margin: 0 auto;
+    text-align:center;
+}
